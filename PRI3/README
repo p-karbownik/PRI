@@ -1,0 +1,12 @@
+Projekt: Obróbka zdjęć w formacie BMP
+Autor: Patryk Karbownik
+
+Opis:
+
+Projekt napisany na laboratorium z przedmiotu: Podstawy programowania [PRI]. Progam służy do prostej obróbki bitmap 16, 24 i 32-bitowych.
+
+Funkcjonalności:
+
+-generowanie negatywu wczytanie bitmapy
+-konwersja na obraz w skali szarości
+-odszumianie obrazka za pomocą filtrów: miedaniowego, uśredniającego, minimalnego i maksymalnego

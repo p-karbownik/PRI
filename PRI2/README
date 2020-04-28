@@ -1,0 +1,10 @@
+Projekt: Kalkulator
+Autor: Patryk Karbownik
+
+Opis:
+
+Projekt napisany na laboratorium z przedmiotu: Podstawy programowania [PRI]. Progam realizuje precyzyjny kalkulator, który może operować na dużych liczbach całkowitych (maksymalnie do siedemdziesięciu cyfr). Kalkulator umożliwia wykonywanie następujących operacji:
+- Dodawanie dwóch liczb
+- Odejmowanie dwóch liczb
+- Mnożenie dwóch liczb
+- Silnia
